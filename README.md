@@ -26,7 +26,7 @@ That will create a "stardots" folder with this project in it, with the plugin th
 ```
 \include "Plugins/stardots/stordots.ly"
 ```
-There are many excellent tutorials for using submodules effectively.
+Then when there are updates to this project, you can get them by navigating to ```Plugins/stardots``` and the commend ```git pull``` to get the latest version. Seek out some of the excellent tutorials for using submodules effectively.
 
 
 ## Acknowledgments
