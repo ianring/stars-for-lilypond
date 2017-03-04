@@ -16,3 +16,5 @@ Lilypond projects where it's needed.
 \include "Plugins/stardots.ly"
 ```
 
+## Acknowledgments
+Based on a snippet by Dominic Irving, enhanced by Simon Albrecht
