@@ -9,5 +9,10 @@ with ```\star{  }```
 \star{c2.} 
 ```
 
+I suggest you create a Plugins folder, put this file in it, then include it into 
+Lilypond projects where it's needed.
 
+```
+\include "Plugins/stardots.ly"
+```
 
