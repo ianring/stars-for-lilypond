@@ -1,3 +1,6 @@
+% Based on a snippet by Dominic Irving, with enhancement
+% by Simon Albrecht and refinement by Ian Ring
+
 % this is a work in progress, which doesn't follow all the 
 % alignment rules that the star should... but it's a great 
 % start.
