@@ -24,6 +24,7 @@ star = #(define-music-function (music) (ly:music?)
 		\once \override Dots.font-name = #"Century Gothic"
 		\once \override Dots.font-size = #-4
 		\once \override Dots.staff-position = #0
+		\once \override Dots.extra-offset = #'(0.1 . -0.5)
 		\scaleDurations 5/6 $music
 	#}
 )
